@@ -1,0 +1,26 @@
+TRIALS = 5
+
+MARGIN = 1.0
+
+MOMENTUM = 0.9
+WDECAY = 5e-4
+
+###################################
+DATASET = 'cifar100'    # 'cifar100'
+CHANNEL_SIZE = 3
+
+WEIGHT = 0.5
+BATCH = 128
+LR = 0.1
+
+EPOCH = 200
+MILESTONES = [160]
+EPOCHL = 120
+
+CLS_CNT = 100
+
+SUBSET = 25000
+ADDENDUM = 2500
+INIT_SIZE = 2500
+
+CYCLES = 6

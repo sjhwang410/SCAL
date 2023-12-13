@@ -1,0 +1,19 @@
+cifar10/100 init size
+total: 50000
+label: 2500
+unlabel: 47500
+
+imbalanced cifar10
+total: 26650
+label: 1300
+unlabel: 25350
+
+fashion-mnist
+total: 60000
+label: 3000
+unlabel: 57000
+
+caltech/caltech_random (test: 695)
+total: 7982
+label: 400
+unlabel: 7582
